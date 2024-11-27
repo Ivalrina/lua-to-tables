@@ -1,4 +1,4 @@
-require("iteminfo")
+require("iteminfo2")
 require("ParserUtils")
 
 items = io.open("items.txt", "w")
